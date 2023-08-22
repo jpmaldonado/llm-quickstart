@@ -14,7 +14,8 @@ A few minimal examples for tinkering around with LLMs.
 - [Examples from Llama Index.](https://github.com/jerryjliu/llama_index/tree/main/examples)
 - [Use Cases - Llama Index docs.](https://gpt-index.readthedocs.io/en/latest/end_to_end_tutorials/use_cases.html) 
 - [Web application starter packs.](https://github.com/logan-markewich/llama_index_starter_pack)
-  
+- [Small Corpora in Czech for quick prototyping/experimenting](https://corpora.kiv.zcu.cz/sentiment/)  
+
 ## Other alternatives to running local models
 - [Llama Index - Private setup.](https://colab.research.google.com/drive/16QMQePkONNlDpgiltOi7oRQgmB8dU5fl?usp=sharing#scrollTo=d8e02c06)
 - [GPT4All.](https://github.com/nomic-ai/gpt4all)
